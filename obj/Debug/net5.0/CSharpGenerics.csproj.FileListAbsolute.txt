@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Practice\CSharpGenerics\bin\Debug\net5.0\CSharpGenerics.exe
+C:\Users\HP\Desktop\Practice\CSharpGenerics\bin\Debug\net5.0\CSharpGenerics.deps.json
+C:\Users\HP\Desktop\Practice\CSharpGenerics\bin\Debug\net5.0\CSharpGenerics.runtimeconfig.json
+C:\Users\HP\Desktop\Practice\CSharpGenerics\bin\Debug\net5.0\CSharpGenerics.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Practice\CSharpGenerics\bin\Debug\net5.0\CSharpGenerics.dll
+C:\Users\HP\Desktop\Practice\CSharpGenerics\bin\Debug\net5.0\ref\CSharpGenerics.dll
+C:\Users\HP\Desktop\Practice\CSharpGenerics\bin\Debug\net5.0\CSharpGenerics.pdb
+C:\Users\HP\Desktop\Practice\CSharpGenerics\obj\Debug\net5.0\CSharpGenerics.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Practice\CSharpGenerics\obj\Debug\net5.0\CSharpGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Practice\CSharpGenerics\obj\Debug\net5.0\CSharpGenerics.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Practice\CSharpGenerics\obj\Debug\net5.0\CSharpGenerics.AssemblyInfo.cs
+C:\Users\HP\Desktop\Practice\CSharpGenerics\obj\Debug\net5.0\CSharpGenerics.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Practice\CSharpGenerics\obj\Debug\net5.0\CSharpGenerics.dll
+C:\Users\HP\Desktop\Practice\CSharpGenerics\obj\Debug\net5.0\ref\CSharpGenerics.dll
+C:\Users\HP\Desktop\Practice\CSharpGenerics\obj\Debug\net5.0\CSharpGenerics.pdb
+C:\Users\HP\Desktop\Practice\CSharpGenerics\obj\Debug\net5.0\CSharpGenerics.genruntimeconfig.cache
